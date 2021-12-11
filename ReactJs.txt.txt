@@ -1,1 +1,3 @@
-Welcome to git repository class
+Welcome to git repository class by Shriya
+
+This is in master branch
